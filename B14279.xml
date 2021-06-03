@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Muses gardin for delights, or the fift booke of ayres onely for the lute, the base-vyoll, and the voyce. Composed by Robert Iones.</title>
+            <author>Jones, Robert, fl. 1597-1615.</author>
+         </titleStmt>
+         <extent>Approx. 38KB of XML-encoded text transcribed from 30 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B14279</idno><idno type="EEBO-CITATION">99857169</idno>
+  <idno type="VID">176952</idno>
+  <idno type="EEBO-PROQUEST">2240860406</idno>
+  <idno type="STC">STC 14736</idno>
+  <idno type="STC">ESTC S122016</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99857169e"/>
+            <note>(EEBO-TCP ; phase 2, no. B14279)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176952)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 728:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Muses gardin for delights, or the fift booke of ayres onely for the lute, the base-vyoll, and the voyce. Composed by Robert Iones.</title>
+                  <author>Jones, Robert, fl. 1597-1615.</author>
+               </titleStmt>
+               <extent>[32] p. : music  </extent>
+               <publicationStmt>
+                  <publisher>Printed by [William Stansby] the assignes of William Barley,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1610.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First five words of title are xylographic.</note>
+                  <note>With a title-page woodcut.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Signatures: pi²  [A]²  B-G² .</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Songs with instrumental ensemble --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176952:1"/>
+            <p>THE Muses Gardin for Delights,</p>
+            <p>Or the fift Booke of Ayres, onely for the Lute, the Base-vyoll, and the Voyce.</p>
+            <p>
+               <hi>Composed by</hi> ROBERT IONES:</p>
+            <q>Quae prosunt singula, multa iuuant.</q>
+            <figure>
+               <figDesc>two men tending a garden</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON</hi>
+            </p>
+            <p>Printed by the Assignes of <hi>William Barley.</hi> 1610.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:176952:2"/>
+            <head>TO THE TRVE HONOVRABLE, AND ESTEEMED WORTHIE, THE <hi>RJGHT WORSHIPFVLL THE LADY</hi> WROTH.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Ost Honoured Lady, my eldest and first issue, hauing thriu'd so well vnder the protection of your Right Honourable Father, blame not this my yon<g ref="char:EOLhyphen"/>gest and last Babe, if it desirously seeke Sanctuarie with your selfe, as being a most worthy branch from so Noble and renowmed a stocke: It is here ditarie to your whole house, not onely to be truely Honoura<g ref="char:EOLhyphen"/>ble in your selues, but to be the fauourers and furtherers of all honest and vertuous endeuours in others. And that makes me so farre daring, as to presume to offer this Dedication to your faire acceptance; And howsoe<g ref="char:EOLhyphen"/>uer my defects therein may happily (or rather vnhappily) be many: Yet am I most confident (and that growes from the worthinesse of your owne nature) that your Honourable minde will be pleased (since it casts it selfe most humbly in your armes) to giue it willing entertainement, and to countenance it with the faire Liuerie of your noble Name, It may bee slighted in respect of its owne valew, but your fauourable acceptance, will both grace it, and my selfe, as a poore Table hung vp, euen in Princes Gallories, not for the Wood, but for the Picture, And so (Noble Lady) not daring to bee iealous of your Honourable entertaine<g ref="char:EOLhyphen"/>ment, I rest</p>
+            <closer>
+               <signed>Your Ladyship deuoted in all dutie, <hi>ROBERT IONES.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:176952:3"/>
+            <head>❧ To the friendly Censurers.</head>
+            <p>
+               <seg rend="decorInit">D</seg>Eare friends, for so I call you, if you please to accept my good meaning, I presented you last with a Dreame, in which J doubt not, but your fantasies haue receiued some reasonable contentment, and now if you please to bee awaked out of that Dreame, J shall for your recre<g ref="char:EOLhyphen"/>ation and refreshing, guide you to the <hi>MVSES GAR<g ref="char:EOLhyphen"/>DEN,</hi> where you shall find such varietie of delights, that questionlesse you will willingly spend some time in the view thereof. Jn your first entrance into which Garden, you shall meete with Loue, Loue, and nought but Loue, set foorth at large in his colours, by way of decyphe<g ref="char:EOLhyphen"/>ring him in his nature. In the midst of it, you shall find Loue reiected, vpon inconstancie and hard measure of ingratitude: Touching them that are louers, I leaue them to their owne censure in Loues description. And now for the end, it is variable in another maner, for the delight of the eare to satisfie opinion. I am not so arrogant to commend mine owne gifts, neither yet so degenerate, as to beg your tolleration. Jf these delights of Flowers, or varietie of Fruites, may any wayes be pleasing to your senses, I shall be glad. Otherwise J will vow neuer to set, sow, plant or graft, and my labours henceforth shall cease to trouble you, if you will needs mislike, J care not. I will preuent your censures, and defie your malice, if you despise me, I am resolute, if you vse me with respect, J bid you most hearti<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y</p>
+            <closer>
+               <salute>Farewell.</salute>
+               <signed>R. I.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:176952:4"/>
+            <head>THE TABLE.</head>
+            <list>
+               <item>
+                  <seg rend="decorInit">L</seg>Oue loue. 1</item>
+               <item>Soft Cupid soft. 2</item>
+               <item>Aze I the silly fish beguile. 3</item>
+               <item>The fountaines smoake. 4</item>
+               <item>Walking by the Riuer side. 5</item>
+               <item>I cannot chuse but giue a smile. 6</item>
+               <item>Ioy in thy h<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>pes. 7</item>
+               <item>How many New yeeres haue growen olde. 8</item>
+               <item>There was a shepheard that did liue. 9</item>
+               <item>The Sea hath many thousand sands. 10</item>
+               <item>Once did my thoughts both ebbe and flow. 11</item>
+               <item>I am so farre from pittying thee. 12</item>
+               <item>As I lay lately in a dreame. 13</item>
+               <item>There was a willy ladde. 14</item>
+               <item>My father faine would haue me take. 15</item>
+               <item>My Loue hath her true Loue betraide: 16</item>
+               <item>All my sence thy sweetenesse gained. 17</item>
+               <item>To thee deafe Aspe with dying voice. 18</item>
+               <item>Behold her lockes like wires of beaten Gold. 19</item>
+               <item>Although the Wings of my desire be clipt. 20</item>
+               <item>Might I redeeme mine errors with mine eyes. 21</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:5"/>
+               <head>I. <hi>CANTVS.</hi>
+               </head>
+               <byline>ROBERT IONES.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">L</seg>Oue, Loue, .ij. ij. Is a pret╌tie, .ij. .ij. Frencie, a melan╌cho╌ly fire, begot by lookes, maintain'd with hopes, and bey th'end, by desire.</hi>
+               </p>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Loue is a pretie Tyrant,</l>
+                  <l>By our affections as med,</l>
+                  <l>Take them away, none liues this day,</l>
+                  <l>The Coward boy hath harmed.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Loue is a pretie Idole,</l>
+                  <l>Opinion did deuise him,</l>
+                  <l>His votaries is slouth and lies,</l>
+                  <l>The Robes that doe disguise him.</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>Loue is a pretie Painter,</l>
+                  <l>And counterfetteth passion,</l>
+                  <l>His shadow'd lies, makes fansies rise,</l>
+                  <l>To set beliefe in fashion.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>Loue is a pretie Pedler,</l>
+                  <l>Whose Packe is fraught with sorrowes,</l>
+                  <l>With doubts with feares, with sighs with teares,</l>
+                  <l>Some ioyes, but those he borrowes.</l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>Loue is a pretie nothing,</l>
+                  <l>Yet what a quoile it keepes,</l>
+                  <l>With thousand eyes of iealousies,</l>
+                  <l>Yet no one euer sleepes.</l>
+               </lg>
+            </div>
+            <div n="bassus" type="part">
+               <head>BASSVS.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">L</seg>Oue, loue</hi>
+               </p>
+            </div>
+         </div>
+         <div n="2" type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:6"/>
+               <head>II. <hi>CANTVS.</hi>
+               </head>
+               <byline>ROBERT IONES.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">S</seg> Soft Cupid soft, .ij. There is no haste, For all vnkindnesse gone and past. Since thou wilt needs forsake me so, let vs parte friendes, .ij. be╌fore thoū goe.</hi>
+               </p>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Still shalt thou haue my heart to vse,</l>
+                  <l>When I cannot otherwise chose,</l>
+                  <l>My life thou mayst command Saunce doubt,</l>
+                  <l>Command I say and goe with out.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>And if that I doe euer pro<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e,</l>
+                  <l>False and vnkind to gentle Loue,</l>
+                  <l>Ile not desire to liue a day,</l>
+                  <l>Nor any longer then I may.</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>Ile dayly blesse the little God,</l>
+                  <l>But not without a smarting rod,</l>
+                  <l>Wilt thou still vnkindly leaue mee,</l>
+                  <l>Now I pray God <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> goe with thee.</l>
+               </lg>
+            </div>
+            <div n="bassus" type="part">
+               <head>BASSVS.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">S</seg>Oft Cupid.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="3" type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:7"/>
+               <head>
+                  <hi>III.</hi> CANTVS.</head>
+               <byline>ROBERT IONES.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">A</seg>S I the sil╌ly Fish deceiue, so Fortune playes with me, whose baites my heart of ioyes bereaue, and Angels taketh mee, I still doe fish, yet am I caught, and taken am, ij. their tak╌ing taught.</hi>
+               </p>
+               <lg n="2">
+                  <head>2</head>
+                  <l>The Riuer wherein I doe swimme,</l>
+                  <l>Of streames of hope is made,</l>
+                  <l>Where ioyes as flowers dresse the brimme,</l>
+                  <l>And frownes doe make my shade.</l>
+                  <l>Whence smiles as sun-shine giues me heat,</l>
+                  <l>And shadow frownes from showers beat.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Thus taken like an enuious one,</l>
+                  <l>Who glads for others care,</l>
+                  <l>Since he himselfe must feele such mone,</l>
+                  <l>Delights, all, so should fare,</l>
+                  <l>And striue to make them know like smart,</l>
+                  <l>So make I this to beare apart.</l>
+               </lg>
+            </div>
+            <div n="bassus" type="part">
+               <head>BASSVS.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">A</seg>S I the.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="4" type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:8"/>
+               <head>
+                  <hi>IIII.</hi> CANTVS.</head>
+               <byline>ROBERT IONES.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">T</seg>He fountaines smoake, And yet no flames they shewe, Starres shine all night Though vndesern'd by day, and trees doe spring, yet are not seene to growe, And shadowes mooue. ij. .ij. Although they seeme to stay in Win╌ters woe, Is buried Summers blisse, and Loue loues most, when loue most se╌cret is.</hi>
+               </p>
+               <lg n="2">
+                  <head>2</head>
+                  <l>The stillest streames descries the greatest deepe,</l>
+                  <l>The clearest skie is subiect to a shower,</l>
+                  <l>Conceit's most sweete, when as it seemes to sleepe,</l>
+                  <l>And fairest dayes doe in the morning lower,</l>
+                  <l>The silent Groues sweete Nimphs they cannot misse,</l>
+                  <l>For loue loues most, where loue most secret is.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>The rarest Jewels, hidden vertue yeeld,</l>
+                  <l>The sweete of traffique, is a secret gaine,</l>
+                  <l>The yeere once old doth shew a barren field,</l>
+                  <l>And Plants seeme dead, and yet they spring againe,</l>
+                  <l>Cupid is blind, the reason why, is this,</l>
+                  <l>Loue loueth most, where loue most secret is.</l>
+               </lg>
+            </div>
+            <div n="bassus" type="part">
+               <head>BASSVS.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">T</seg>He fountaines.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="5" type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:9"/>
+               <head>
+                  <hi>V.</hi> CANTVS.</head>
+               <byline>ROBERT IONES.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">W</seg>Alking by a Riuerside, in prime of Summers morning, viewing Phoebus in his pride, the siluer streames adorning, And passing on .ij my selfe alone, Me thought I heard a wofull grone.</hi>
+               </p>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Still I stood as one amaz'd,</l>
+                  <l>To heare this wofull crying,</l>
+                  <l>Round about me then I gaz'd,</l>
+                  <l>In euery Meddow prying.</l>
+                  <l>Yet could I not this wight surprise,</l>
+                  <l>Although the voice did pierce the skies.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Venus thou hast kild my heart,</l>
+                  <l>And quite my soule confounded,</l>
+                  <l>Thy sonne Cupid with his dart,</l>
+                  <l>My vitall parts hath wounded,</l>
+                  <l>Shoote home proud boy, and doe thy worst,</l>
+                  <l>That shee may die that liues accurst.</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>Draw thy shaft vnto the head,</l>
+                  <l>And strongly it deliuer,</l>
+                  <l>Draw that thou mayst strike her dead,</l>
+                  <l>That liues a hopelesse Louer,</l>
+                  <l>Let come blind boy to satisfie,</l>
+                  <l>His mind that most desire to dies.</l>
+               </lg>
+            </div>
+            <div n="bassus" type="part">
+               <head>BASSVS.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">W</seg>Alking by.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="6" type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:10"/>
+               <head>
+                  <hi>VI.</hi> CANTVS.</head>
+               <byline>ROBERT IONES.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">I</seg> Cannot chuse but giue a smile, To see how Loue doeth all be╌guile, Ex╌cept it bee thy frozen heart, That yeeldes not to his fie╌rie Dart.</hi>
+               </p>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Belike I was Achillis like,</l>
+                  <l>Drencht in that fatall hardning flood,</l>
+                  <l>My flesh it feares no push of pike,</l>
+                  <l>The speare against me doth no good.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Onely my heele may Cupid hit,</l>
+                  <l>And yet I care not much for it,</l>
+                  <l>Because the hurt I cannot feele,</l>
+                  <l>Vnlesse my heart were in my heele.</l>
+               </lg>
+            </div>
+            <div n="cantus" type="part">
+               <head>The Answere.</head>
+               <lg n="1">
+                  <head>1</head>
+                  <l>I cannot chuse but needes must smile,</l>
+                  <l>To see how Loue doth thee beguile,</l>
+                  <l>Which did of purpose frieze thy heart,</l>
+                  <l>To thaw it to thy greater smart.</l>
+               </lg>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Suppose thou wert Achillis like.</l>
+                  <l>Drencht in that fatall hardning flood,</l>
+                  <l>That might auaile gainst push or pike,</l>
+                  <l>But gainst his dart t'will doe no good.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>For if thy heele he doe but hit,</l>
+                  <l>His venom'd shaft will rancle it,</l>
+                  <l>The force whereof the heart must feele,</l>
+                  <l>Conuaide by Arteryes from thy heele.</l>
+               </lg>
+            </div>
+            <div n="bassus" type="part">
+               <head>BASSVS.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">I</seg> Cannot.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="7" type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:11"/>
+               <head>
+                  <hi>VII.</hi> CANTVS.</head>
+               <byline>ROBERT IONES.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">I</seg>Oye in thy hope, the earnest of thy Loue, For so thou mayst En╌ioye thy hearts desire True hopes, things absent doe as present prooue, And keeepe aliue, .ij. Loues still re╌newing fire.</hi>
+               </p>
+               <lg n="2">
+                  <head>2</head>
+                  <l>But of thy hope let silence by thy tongue,</l>
+                  <l>And secresie the heart of louing fire,</l>
+                  <l>For hopes reucaled may thy hopes prolong,</l>
+                  <l>Or cut them off in prime-time of desire.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Sweete are those hopes that doe themselues enioy,</l>
+                  <l>As vowed to them selues to liue and Dey,</l>
+                  <l>Sweetest those ioyes and freest from annoy,</l>
+                  <l>That waken not the eye of iealousie.</l>
+               </lg>
+            </div>
+            <div n="bassus" type="part">
+               <head>BASSVS.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">I</seg>Oye in the. </p>
+            </div>
+         </div>
+         <div type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:12"/>
+               <head>L'ENVOY.</head>
+               <lg>
+                  <l>Thy loue is not thy loue, if not thine owne,</l>
+                  <l>And so it is not, if it once be knowne.</l>
+               </lg>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>Thy loue is not thy loue, if not thine owne, and so it is not, if it once bee knowen.</hi>
+               </p>
+            </div>
+            <div n="bassus" type="part">
+               <head>LENVOY.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+               </p>
+            </div>
+         </div>
+         <div n="8" type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:13"/>
+               <head>
+                  <hi>VIII.</hi> CANTVS.</head>
+               <byline>ROBERT IONES.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">H</seg>Ow many new yeres haue grow'n old, Since first your seruant old was new, How many long howers haue I told, Since first my loue was vow'd to you, And yet a╌las, .ij. Shee doeth not know whether her seruant. loue or no. </p>
+               <lg n="2">
+                  <head>2</head>
+                  <l>How many wals as white as Snow,</l>
+                  <l>And windowes cleere as any glasse,</l>
+                  <l>Haue I coniur'd to tell you so,</l>
+                  <l>Which faithfully performed was,</l>
+                  <l>And yet you'lsweare you do not know,</l>
+                  <l>Whether your seruant loue or no.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>How often hath my pale leane face,</l>
+                  <l>With true Characters of my loue,</l>
+                  <l>Petitroned to you for grace,</l>
+                  <l>Whom neither sighs nor teares can moue,</l>
+                  <l>O cruell yet doe you not know,</l>
+                  <l>Whether your seruant loue or no?</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>And wanting oft a better token,</l>
+                  <l>I haue beene faine to send my heart,</l>
+                  <l>Which now your cold disdaine hath broken,</l>
+                  <l>Nor can you healt by any art,</l>
+                  <l>O looke vpon't and you shall know,</l>
+                  <l>Whether your seruant loue or no.</l>
+               </lg>
+            </div>
+            <div n="bassus" type="part">
+               <head>BASSVS.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">H</seg>Ow many. </p>
+            </div>
+         </div>
+         <div n="9" type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:14"/>
+               <head>
+                  <hi>IX.</hi> CANTVS.</head>
+               <byline>ROBERT IONES.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">T</seg>Here was a Shepheard that did liue, And helde his thoughtes as hie As were the Mounts, whereon his flockes did hourely feede him by. He from his youth, his tender youth, which was vnapt to keepe, Or hopes, or feares, or loues, or cares, or thoughts but of hissheepe </p>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Did with his dogge as Shepheards doe,</l>
+                  <l>For Shepheards wanting wit,</l>
+                  <l>Deu<gap reason="illegible" resp="#murp" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> some sports, though foolish sports,</l>
+                  <l>Yet sports for Shepheards fit,</l>
+                  <l>The <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> that (yet) was but a boy,</l>
+                  <l>And so de<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ir's were hid,</l>
+                  <l>Did grow a man. and men mu<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t loue,</l>
+                  <l>And loue this Shepheard did,</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>He loued much, none can too much</l>
+                  <l>Loue one so high diuine<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </l>
+                  <l>As bat her selfe, none but her selfe,</l>
+                  <l>So faire, so fresh, so fine,</l>
+                  <l>He vowed by his Shepheards weede,</l>
+                  <l>An Oath which Shepheards keepe,</l>
+                  <l>That he would <gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>o <gap reason="illegible" resp="#murp" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Phillyday,</l>
+                  <l>Before a flocke of sheepe,</l>
+               </lg>
+            </div>
+            <div n="bassus" type="part">
+               <head>BASSVS.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">T</seg>Here was. </p>
+            </div>
+         </div>
+         <div n="10" type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:15"/>
+               <head>
+                  <hi>X.</hi> CANTVS.</head>
+               <byline>ROBERT IONES.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">T</seg>He Sea hath many thousand sands, The Sunne hath motes as many, The skie is full of statres, And loue as full of woes as an╌ny, Beleeue me .ij. .ij. that doe knowe the elfe, and make no tryall by thy selfe.</hi>
+               </p>
+               <lg n="2">
+                  <head>2</head>
+                  <l>It is in trueth a prettie toye,</l>
+                  <l>For babes to play withall,</l>
+                  <l>But O the honies of our youth,</l>
+                  <l>Are oft our ages gall,</l>
+                  <l>Selfe proofe in time will make thee know,</l>
+                  <l>He was a Prophet told thee so.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>A Prophet that Cassandra like,</l>
+                  <l>Tels trueth without beliefe,</l>
+                  <l>For head-strong youth will runne his race,</l>
+                  <l>Although his Goale be griefe,</l>
+                  <l>Loues Martyr when his heate is past,</l>
+                  <l>Prooues cares Confessor at the last.</l>
+               </lg>
+            </div>
+            <div n="bassus" type="part">
+               <head>BASSVS.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">T</seg>He Sea hath.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="11" type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:16"/>
+               <head>
+                  <hi>XI.</hi> ANTVS.</head>
+               <byline>ROBERT IONES.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">L</seg>Nce did my thoughts both ebbe and flowe, As pa╌ssi╌on did them mooue, Once did I hope, .ij. straight feare againe, And then .ij. .ij. .ij. .ij. I was in Loue.</hi>
+               </p>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Once did I waking spend the night,</l>
+                  <l>And told how many minutes mooue,</l>
+                  <l>Once did I wishing waste the day,</l>
+                  <l>And then I was in loue.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Once by my caruing true loues knot,</l>
+                  <l>The weeping trees did proue,</l>
+                  <l>That wounds and teares were both our lots,</l>
+                  <l>And then I was in loue.</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>Once did I breath an others breath,</l>
+                  <l>And in my mistris moue,</l>
+                  <l>Once was I not mine owne at all,</l>
+                  <l>And then I was in loue.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>Once weare I bracelets made of hayre,</l>
+                  <l>And collers did aproue,</l>
+                  <l>Once were my clothes made out of waxe,</l>
+                  <l>And then I was in loue.</l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>Once did I Sonnet to my Saint,</l>
+                  <l>My sonle in number mou'd,</l>
+                  <l>Once did I tell a thousand lies,</l>
+                  <l>And then in trueth I lou'd.</l>
+               </lg>
+               <lg n="7">
+                  <head>7</head>
+                  <l>Once in my care did dangling hang,</l>
+                  <l>A little turtle Doue,</l>
+                  <l>Once in a word I was a foole,</l>
+                  <l>And then I was in loue.</l>
+               </lg>
+            </div>
+            <div n="bassus" type="part">
+               <head>BASSVS.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">O</seg>Nce did my.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="12" type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:17"/>
+               <head>
+                  <hi>XII.</hi> CANTVS.</head>
+               <byline>ROBERT IONES.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">I</seg> Am so farre from pit╌ty╌ing thee, That wear'st a branch of VVil╌low tree, That I doe en╌uie thee and all, that once was high &amp; got a fall, O willow willow willo, .ij. .ij. O .ij. Willo willo tree I would thou didst be╌long to me.</hi>
+               </p>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Thy wearing Willow doth imply,</l>
+                  <l>That thou art happier farre then I,</l>
+                  <l>For once thou wert where thou wouldst be,</l>
+                  <l>Though now thou wear'st the Willow tree,</l>
+                  <l>O Willow willow sweete willow,</l>
+                  <l>Let me once lie vpon her pillow.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>I doe defie both bough and roote,</l>
+                  <l>And all the friends of h<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll to boote,</l>
+                  <l>One houre of Paradised ioye,</l>
+                  <l>Makes Purgatorie seeme a toye,</l>
+                  <l>O willow willow doe thy worst,</l>
+                  <l>Thou canst not make me more accurst.</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>I haue spent all my golden time,</l>
+                  <l>In writing many a louing rime,</l>
+                  <l>I haue consumed all my youth,</l>
+                  <l>In vowing of my faith and trueth</l>
+                  <l>O willow willow willow tree,</l>
+                  <l>Yet can I not beleeued bee.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>And now al as it is too late,</l>
+                  <l>Gray hayres the messenger of fate,</l>
+                  <l>Bids me to set my heart at rest,</l>
+                  <l>For beautie loueth yong men best,</l>
+                  <l>O willow willo I must die,</l>
+                  <l>Thy seruants happier farre then I.</l>
+               </lg>
+            </div>
+            <div n="bassus" type="part">
+               <pb facs="tcp:176952:18"/>
+               <head>BASSVS.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">I</seg> Am so farre. </p>
+            </div>
+         </div>
+         <div n="13" type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:19"/>
+               <head>XIII. <hi>CANTVS.</hi>
+               </head>
+               <byline>ROBERT IONES.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">A</seg>S I lay lately in a dreame, me thought I saw a wonderous thing, a woman faire trans╌for╌med was into a Fidle, .ij. with╌out a string, A Metamorphosis so rare, as all most made mee wake for feare, O this is rare, yea verie verie rare, yea .ij. .ij. A won╌derous thing so faire a Fidle. .ij. .ij. Didle, didle didle, .ij. .ij. a fidle didle, .ij. .ij. So faire a Fidle should want a string. </p>
+               <pb facs="tcp:176952:20"/>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Till honest neighbours dwelling nigh,</l>
+                  <l>Said they would all her wants supply,</l>
+                  <l>And said that they haue strings in store,</l>
+                  <l>For such a Fidle and fortie more,</l>
+                  <l>For loue they beare vnto the sport,</l>
+                  <l>Theyle make her fit for the consort.</l>
+                  <l>O this is rare,</l>
+                  <l>Yea, very rare.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Theyle send her first to some that can,</l>
+                  <l>Put in the peg, and peg her than,</l>
+                  <l>If that her bridge be broken so,</l>
+                  <l>As that the Fidle cannot go,</l>
+                  <l>Theyle soone deuise some other way,</l>
+                  <l>To make her sound the round-delay.</l>
+                  <l>O this is rare,</l>
+                  <l>Yea very rare.</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>When they haue set her in the keye,</l>
+                  <l>You must not straine her strings so high,</l>
+                  <l>For feare the Fidle chance to crake,</l>
+                  <l>Nor let the strings be too too slacke,</l>
+                  <l>The Diapason is her sound,</l>
+                  <l>The lowest note is most profound.</l>
+                  <l>O this is rare,</l>
+                  <l>Yea very rare.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>But note a discord in Musicke,</l>
+                  <l>To sound some. Note without the pricke,</l>
+                  <l>And then for keeping of your moode,</l>
+                  <l>Sing three to one thats passing good,</l>
+                  <l>Of all the Notes in Gamuet scale,</l>
+                  <l>The Long is that which must not faile.</l>
+                  <l>O this is rare.</l>
+                  <l>Yea very rare,</l>
+               </lg>
+            </div>
+            <div n="bassus" type="part">
+               <head>BASSVS.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">A</seg>S l laye lately. </p>
+            </div>
+         </div>
+         <div n="14" type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:21"/>
+               <head>XIIII. <hi>CANTVS.</hi>
+               </head>
+               <byline>ROBERT IONES.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">T</seg>Here was a wyly ladde, met with a bonny lasse, much pretie sport they had, but I wot not what it was, hee woed her for a kisse, She plainely said him no, I pray quoth he, nay nay quoth Shee, nay, nay, quoth shee, I pray you let mee goe. </p>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Full many louely tearms did passe in merrie glee,</l>
+                  <l>He cold her in his armes, and daunc't her on his knee,</l>
+                  <l>And faine he would haue paide such debts as he did owe,</l>
+                  <l>I pray quoth he, nay nay quoth shee,</l>
+                  <l>I pray you let me goe.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>Sweete be you not so nice to gratifie a friend,</l>
+                  <l>If kissing be a vice, my sute is at an end,</l>
+                  <l>Noe noe it is the rule, to learne a man to woe,</l>
+                  <l>I pray quoth he, nay nay quoth shee,</l>
+                  <l>I pray you let me goe.</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>For Cupid hath an eye, to play a louers part,</l>
+                  <l>And swift his arrowes flie to leauell at the heart,</l>
+                  <l>Thy beautie was my bane, that brought me to his bo<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e,</l>
+                  <l>I pray quoth he, nay nay quoth shee,</l>
+                  <l>I pray you let me goe.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>Good Sir alas you feede, your fancie with conceit,</l>
+                  <l>Sweete sweet how should we speede, if louers could not speake.</l>
+                  <l>I speake but what I wish, the spirit wils me so,</l>
+                  <l>I pray quoth he, nay ny quoth shee,</l>
+                  <l>I pray you let me goe.</l>
+               </lg>
+               <lg n="6">
+                  <head>6</head>
+                  <l>With that shee swore an Oath, and loth she was to breake it,</l>
+                  <l>And so to please them both, he gaue and shee did take it,</l>
+                  <l>There was no labour lost, true amitie to show,</l>
+                  <l>Adew quoth he, nay, stay, quoth shee,</l>
+                  <l>Let's kisse before you goe.</l>
+               </lg>
+            </div>
+            <div n="bassus" type="part">
+               <head>BASSVS.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">T</seg>Here was a wyly. </p>
+            </div>
+         </div>
+         <div n="15" type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:22"/>
+               <head>XV. <hi>CANTVS.</hi>
+               </head>
+               <byline>ROBERT IONES.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">M</seg>Y father faine would haue mee take a man that hath a beard, my mother shee cries out a╌lacke, and makes mee much afraide, for╌sooth I am not olde enough, nowe surely this is goodly stuffe, Faith let my mother marrie mee, or let some young man bu╌rie mee. </p>
+               <lg n="2">
+                  <head>2</head>
+                  <l>For I haue liu'd these fourteene yeeres,</l>
+                  <l>My mother knowes it well,</l>
+                  <l>What neede shee then to cast such feares,</l>
+                  <l>Can any body tell?</l>
+                  <l>As though yong women doe not know,</l>
+                  <l>That custome will not let them wo,</l>
+                  <l>I would bee glad if I might chuse,</l>
+                  <l>But I were maade if I refuse.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>My mother bids me goe to Schoole,</l>
+                  <l>And learne to doe some good,</l>
+                  <l>T'were well if shee would let the foole,</l>
+                  <l>Come home and sucke a dugge,</l>
+                  <l>As if my father knew not yet,</l>
+                  <l>That maidens are for yong men fit,</l>
+                  <l>Giue me my mind and let me wed,</l>
+                  <l>Or you shall quickly find me dead.</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>How soone my mother hath forgot,</l>
+                  <l>That euer shee was yong,</l>
+                  <l>And how that shee denyed not,</l>
+                  <l>But sung another song,</l>
+                  <l>I must not speake what I doe thinke,</l>
+                  <l>When I am drie I may not drinke.</l>
+                  <l>Though her desire be now growen old,</l>
+                  <l>She must haue fier when shee is cold.</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>You see the mother loues the sonne,</l>
+                  <l>The father loues the maide,</l>
+                  <l>What would shee haue me be a Nun?</l>
+                  <l>I will not be delaide,</l>
+                  <l>I will not liue thus idle still,</l>
+                  <l>My mother shall not haue her will,</l>
+                  <l>My father speaketh like a man,</l>
+                  <l>I will be married doe what shee can.</l>
+               </lg>
+            </div>
+            <div n="bassus" type="part">
+               <head>BASSVS.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">M</seg>Y father faine. </p>
+            </div>
+         </div>
+         <div n="16" type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:23"/>
+               <head>XVI. <hi>CANTVS.</hi>
+               </head>
+               <byline>ROBERT IONES.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">M</seg>Y loue hath her true loue betraide, Why tis a fault that is to common yet shall it not be e╌<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er saide, my faith depended on a woman, If shee did, .ij. .ij. to prooue vn╌true, I shall doe worse, .ij. to change for new. </p>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Che hath some vertues followe them,</l>
+                  <l>Take not example by her lightnesse,</l>
+                  <l>Be not amongst the vulgar men.</l>
+                  <l>Though she b<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> clouded, keepe thy brightnesse:</l>
+                  <l>Perhaps her selse in time may proove,</l>
+                  <l>What tis to wrong a constant loue</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>The many vowes giuen by my faire,</l>
+                  <l>Were none of hers: the wind did owe them,</l>
+                  <l>Then weare they breath. now are they ayre.</l>
+                  <l>Whence first they came, there she beslowes them.</l>
+                  <l>Then maruell not thou women alter,</l>
+                  <l>When all things turne to their first matter,</l>
+               </lg>
+            </div>
+            <div n="bassus" type="part">
+               <head>BASSVS.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">M</seg>Y love hath. </p>
+            </div>
+         </div>
+         <div n="17" type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:24"/>
+               <head>XVII. <hi>CANTVS.</hi>
+               </head>
+               <byline>ROBERT IONES.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">A</seg>Ll my sence thy sweete╌nesse gained, Thy faire hayte my heart enchained. Fa, la, la, My poore reason thy wordes mooued, So that thee like like heauen I loued. lire derida, Fa, la, la, le╌ri╌dan. ij. .ij. Fa, la, la, lerideridane, lerideri dan leri╌dan dei, while to my minde the out╌side stoode, for messenger of inward good. </p>
+               <lg n="2">
+                  <head>2</head>
+                  <l>Now thy sweetnesse sowre is deemed,</l>
+                  <l>Thy hayre not worth a hayre esteemed,</l>
+                  <l>While to my minde the outside stood,</l>
+                  <l>Finding that, but words they proou'd,</l>
+                  <l>Fa, la. la,</l>
+                  <l>Dan, dan, dan.</l>
+                  <l>For no faire Signe can credit winne,</l>
+                  <l>It that the substance faile within.</l>
+               </lg>
+               <lg n="3">
+                  <head>3</head>
+                  <l>No more in thy sweetenesse glorie,</l>
+                  <l>For thy knitting hayre be sorie,</l>
+                  <l>Vse thy words but to bewaile thee,</l>
+                  <l>That no more thy beames auaile thee,</l>
+                  <l>Fa, la, la.</l>
+                  <l>Dan, dan, dan:</l>
+                  <l>Lay not thy colours more to viewe,</l>
+                  <l>Without the Picture be found true.</l>
+               </lg>
+               <lg n="4">
+                  <head>4</head>
+                  <l>Woe to me, alas shee weepeth,</l>
+                  <l>Foole in me, what folly creepeth.</l>
+                  <l>Was I to blasphemie enraged,</l>
+                  <l>W<gap reason="illegible" resp="#murp" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>re my soule I haue engaged,</l>
+                  <l>Fa, la, la,</l>
+                  <l>Dan, dan, dan,</l>
+                  <l>And wretched I must yeeld to this</l>
+                  <l>The fault I blame her chastnesse is▪</l>
+               </lg>
+               <lg n="5">
+                  <head>5</head>
+                  <l>Sweetnesse sweetely pardon folly,</l>
+                  <l>Tye my hayre your capture solly,</l>
+                  <l>Words O words of heauenly knowledge,</l>
+                  <l>Know my words their faults acknowledge,</l>
+                  <l>Fa, la, la,</l>
+                  <l>Dan, dan, dan,</l>
+                  <l>And all my life I will confesse,</l>
+                  <l>The lesse I loue, I liue the lesse.</l>
+               </lg>
+            </div>
+            <div n="bassus" type="part">
+               <head>BASSVS.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">A</seg>Ll my sense. </p>
+            </div>
+         </div>
+         <div n="18" type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:25"/>
+               <head>
+                  <hi>XVIII.</hi> CANTVS.</head>
+               <byline>ROBERT IONES.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">T</seg>O the deafe Aspe with dying voice, Sad╌ly I Sing this heauie charme, that if thy heart doe ere reioyce, and set at nought my grieuous harme, this verse writ with a dead mans arme, may haunt thy senselesse eyes and eares, may haunt thy sencelesse eyes and eares, turne ioyes to Cares, .ij. and hopes to feares.</hi>
+               </p>
+               <lg>
+                  <l>By thy Creators pietie,</l>
+                  <l>By her that brought thee to this light,</l>
+                  <l>By thy deare Nurses loue to thee,</l>
+                  <l>By Loue it selfe, Heauens, Day, and Night,</l>
+                  <l>By all that can thy sense delight,</l>
+                  <l>When I am cold, and wrapt in Lead,</l>
+                  <l>Remember oft thy seruant dead.</l>
+               </lg>
+               <lg>
+                  <l>So shall my shadow thee attend,</l>
+                  <l>Like calmest breath of is esterne wind,</l>
+                  <l>If not: with grones it shall ascend,</l>
+                  <l>Like Rauen, Owle, Beare, or hellish feind,</l>
+                  <l>Ratling the chaines which doe it bind,</l>
+                  <l>And where thou art by silent night,</l>
+                  <l>It shall thy guiltie soule affright.</l>
+               </lg>
+               <lg>
+                  <l>Yet Sea-men tost with stormie Wind,</l>
+                  <l>Voide of all hope, resolu'd to die,</l>
+                  <l>From powerfull heauens oft mercie find,</l>
+                  <l>And so may I find grace with thee,</l>
+                  <l>No, no, thou canst not pitie me,</l>
+                  <l>Aspes cannot heare, nor liue can I,</l>
+                  <l>Thou hearest not, vnheard I die.</l>
+               </lg>
+            </div>
+            <div n="bassus" type="part">
+               <head>BASSVS.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">T</seg>O the deafe. </p>
+            </div>
+         </div>
+         <div n="19" type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:26"/>
+               <head>XIX. <hi>CANTVS.</hi>
+               </head>
+               <byline>ROBERT IONES.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">B</seg>Ehold her locks like wyers of beaten gold, her eyes likestars that twickle ij. -ij. in the skie, Her heauenly face, her beauenly face, not fram'd of earthly mold, her voice that sounds the heauens melody, the miracles of time, .ij. of time, the worldes storie, Fortunes Queene, .ij. Loues treasure, Natures glorie. </p>
+               <lg>
+                  <l>
+                     <hi>N<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> flattering hopes shee likes, blind Fortunes baite,</hi>
+                  </l>
+                  <l>
+                     <hi>Nor <gap reason="illegible" resp="#murp" extent="1 span">
+                           <desc>〈…〉</desc>
+                        </gap> delight, fond fancies glasse,</hi>
+                  </l>
+                  <l>
+                     <hi>N<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>r charmes that doe inchant, false Arts decei<gap reason="illegible" resp="#murp" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>t,</hi>
+                  </l>
+                  <l>
+                     <hi>Nor fading ioyes, which time makes swiftly passe,</hi>
+                  </l>
+                  <l>
+                     <hi>But chast desires, which beateth all these downe,</hi>
+                  </l>
+                  <l>
+                     <hi>A Goddesse looke is worth a Monarches Crowne.</hi>
+                  </l>
+               </lg>
+            </div>
+            <div n="bassus" type="part">
+               <head>BASSVS.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">B</seg>Ehold her lockes. </p>
+            </div>
+         </div>
+         <div n="20" type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:27"/>
+               <head>XX. <hi>CANTVS.</hi>
+               </head>
+               <byline>ROBERT IONES.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">A</seg>Lthough the wings of my de╌sires bee clipte, and my Loue thoughtes, from moun╌ting, from mounting lowlye boun╌ded, though slie suspect my ioyes with frost hath nipt, So as my hopes, .ij. with feares, .ij. are still sur╌roun╌ded, yet will I liue to loue, .ij. al╌though through loue I die, and Cumber. still, .ij. still do grow, and comforts from mee flie, No iea╌lous thoughts. .ij. shall force mee
+<pb facs="tcp:176952:28"/>
+                     <gap reason="music">
+                        <desc>〈♫〉</desc>
+                     </gap> to re╌tyre, but I will hope, .ij. .ij. to enioye my hearts desire.</hi>
+               </p>
+               <lg>
+                  <l>Which likes to Loue, and yet the same conceale,</l>
+                  <l>Remembrance chiefty working my relieuing,</l>
+                  <l>Though times of ioye be short, yet will I steale</l>
+                  <l>Such times, to keepe my heart from further grieuing,</l>
+                  <l>Force may remooue my lookes, but not expell my ioy,</l>
+                  <l>Though Cupids shaft giue carelesse wounds, tis no annoy,</l>
+                  <l>Whilest life endures, Ile loue though seeme to shunne</l>
+                  <l>That Port of rest, from whence my comforts come.</l>
+               </lg>
+            </div>
+            <div n="bassus" type="part">
+               <head>BASSVS.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">A</seg>Lthough the wings.</hi>
+               </p>
+            </div>
+         </div>
+         <div n="21" type="song">
+            <div n="cantus" type="part">
+               <pb facs="tcp:176952:29"/>
+               <head>
+                  <hi>XXI</hi> CANTVS.</head>
+               <byline>ROBERT IONES.</byline>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <hi>
+                     <seg rend="decorInit">M</seg>Ight I redeeme myne er╌rours with mine eyes, and shed but for each seuer<gap reason="illegible" resp="#murp" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll sinne a teare, The summe to such a great ac╌count should rise, that I should neuer make .ij. mine Au╌dit cleare, The totall is too bigge to paye the score, I am so rich, .ij. in sinne, in teares so poore.</hi>
+               </p>
+               <lg n="2">
+                  <head>2.</head>
+                  <l>O wretched wealth that doth procure such want,</l>
+                  <l>Vnhappy soule to bee so rich in sin,</l>
+                  <l>The store whereof doth make all graces scant,</l>
+                  <l>An stops thy teares, ere they doe scarce begin,</l>
+                  <l>What once a famous Poet sung be sore,</l>
+                  <l>I finde too true my plenty makes me poore.</l>
+               </lg>
+               <lg n="3">
+                  <head>3.</head>
+                  <l>O might I prooue in this a prodigall,</l>
+                  <l>And bate my meanes by less'ning of my stocke,</l>
+                  <l>I should in grace grow great, in sinnes but small,</l>
+                  <l>If I could euery day from forth the shocke</l>
+                  <l>But pull one care, O ten-times happy want,</l>
+                  <l>When teares increase and sinnes doe grow more scant.</l>
+               </lg>
+               <lg n="4">
+                  <head>4.</head>
+                  <l>O that my God with such sweete strokes would strike,</l>
+                  <l>And by his grace so bank-rout mine estate,</l>
+                  <l>That growing poore in sinne I Lazar like,</l>
+                  <l>Might dayly beg for mercy at his gate,</l>
+                  <l>And craue (though not admittance to his feast)</l>
+                  <l>Some crums of grace to feede my soule at least.</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div n="bassus" type="part">
+               <pb facs="tcp:176952:30"/>
+               <head>BASSVS.</head>
+               <p>
+                  <gap reason="music">
+                     <desc>〈♫〉</desc>
+                  </gap>
+                  <seg rend="decorInit">M</seg>Ight I redeeme. </p>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
